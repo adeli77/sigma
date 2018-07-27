@@ -3,9 +3,10 @@ EL requerimiento mínimo es contar con PHP 5.4.0 o superior
 
 INSTALACIÓN
 Instalar vía git
-
+git clone https://github.com/adeli77/sigma.git
 
 Puede acceder a la aplicación a través de la siguiente URL:
+http://54.218.81.58/web/index.php
 
 CONFIGURACIÓN
 Conexión a una Base de datos
